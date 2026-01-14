@@ -46,3 +46,15 @@ Add installation instructions here (R/Python/CLI), for example:
 # git clone https://github.com/alxala123/BIOFunctional.git
 # cd BIOFunctional
 ```
+
+## Contributing
+
+Contributions are welcome.
+
+- Open an issue for bugs or feature requests.
+- Submit pull requests with a clear description and, when possible, a minimal reproducible example.
+
+## License
+
+Open source — add an OSI-approved `LICENSE` file (e.g., MIT or GPL-3.0) to the repository.
+
